@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Kiwi</fullName>
+        <default>false</default>
+        <label>Kiwi</label>
+    </customValue>
+    <customValue>
+        <fullName>Pear</fullName>
+        <default>false</default>
+        <label>Pear</label>
+    </customValue>
+    <customValue>
+        <fullName>Starfruit</fullName>
+        <default>false</default>
+        <label>Starfruit</label>
+    </customValue>
+    <customValue>
+        <fullName>Peach</fullName>
+        <default>false</default>
+        <label>Peach</label>
+    </customValue>
+    <customValue>
+        <fullName>Apple</fullName>
+        <default>false</default>
+        <label>Apple</label>
+    </customValue>
+    <customValue>
+        <fullName>Banana</fullName>
+        <default>false</default>
+        <label>Banana</label>
+    </customValue>
+    <masterLabel>Fruits</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>
